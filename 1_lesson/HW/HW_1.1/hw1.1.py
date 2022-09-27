@@ -9,3 +9,12 @@ elif day_w == 6 or day_w  == 7:
     print("Да ")
 else:
     print("Введите цифру от 1 до 7")
+
+# num = int(input())
+
+# if 5 < num < 8:
+#     print("Weekend")
+# elif 0 < num < 6:
+#     print("Workday")
+# else:
+#     print("It's not a day of the week!")
