@@ -6,7 +6,6 @@
 num = int(input("Введите n: "))
 m=1
 for i in range(num):
-    m*= i+1
-for i in range(1,num+1):
-    print(m, end=" ")
     m *= i+1
+    print (m, end=" ")
+
