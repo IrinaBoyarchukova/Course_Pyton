@@ -1,0 +1,7 @@
+1x ** 2 + 2x + -3
+The first root: 1.00
+The first root: -3.00
+4x ** 2 + 5x + 6
+There are no roots.
+7x ** 2 + 8x + 9
+There are no roots.
