@@ -15,7 +15,7 @@ def conv_bin(num: int):
         list_nums.insert(0, num % 2)
         num //= 2
 
-    print(*list_nums, sep="")
+    print(*list_nums, sep="") # *list-распаковать; sep=""-не разделяй на пробелы
 
 
 conv_bin(int(input()))
