@@ -30,7 +30,7 @@ def prod_pairs(list_nums: list):
         res_list.append(list_nums[k] * list_nums[len_list - k - 1])
 
     if len_list % 2:
-        res_list.append(list_nums[len_list // 2])
+       res_list.append(list_nums[len_list // 2])
     return res_list
 
 
